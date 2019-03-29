@@ -9,8 +9,8 @@
     "archive": "zip -r ./dist ./function.php -O register-echo-block.zip"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "kamataryo <mugil.cephalus+ciconia.local@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.2",
@@ -27,5 +27,7 @@
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-test-renderer": "^16.8.5"
-  }
+  },
+  "repository": "git@github.com:kamataryo/register-echo-block.git",
+  "private": false
 }
